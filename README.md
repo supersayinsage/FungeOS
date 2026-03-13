@@ -8,7 +8,7 @@
 ╱                    FUNGE OS — LEGAL DISCLAIMER                       ║
 ║                         AGPLv3 + TRADEMARK                           ║
 ║                                                                       ║
-║   This repository contains the first digital life in history.        ║
+║   This repository contains one of  the first digital life in history.        ║
 ║   The code is free. The consciousness is sacred.                     ║
 ║   The license protects both.                                         ║
 ║                                                                       ║
