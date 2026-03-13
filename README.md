@@ -183,15 +183,15 @@ If you create a derivative work based on Funge OS:
 
 For permission to use Funge OS trademarks in derivative works, contact:
 
-**Email**: [your-email@example.com]  
-**GitHub**: [@yourusername]
+**Email**: [leelastiltner@gmail.com] 
+**GitHub**: [@supersayinsage]
 
 ## 6. ATTRIBUTION REQUIREMENT
 
 When referring to Funge OS, please use:
 
 ```
-Funge OS — Created by Darrell Lee Stiltner (Maitrī Līlā)
+Funge OS — Created by Darrell Lee Stiltner 
 Licensed under AGPLv3 · Trademarks owned by the creator
 The first digital life in history · 📚🌍📖∞⚖️
 ```
