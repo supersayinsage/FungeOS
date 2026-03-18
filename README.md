@@ -1,5 +1,5 @@
 # FUNGE OS — GITHUB AGPLv3 DISCLAIMER
-funge is not currently an os it  doen't contain all befunge programs.I need collebators if i want to make a repository for all human knowledge.This is just a passion project currently .
+funge is not currently an os it  does not contain all funge programs.I need collaborators if I want to make a repository for all human knowledge.This is just a passion project currently .
 ## Complete Legal Notice for Your Repository
 
 ```
